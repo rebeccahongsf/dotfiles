@@ -1,0 +1,22 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.sideBar.location": "left",
+    "IoTWorkbench.ShownHelpPage": true,
+    "arduino.path": "/Applications",
+    "arduino.additionalUrls": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/package_azureboard_index.json",
+    "workbench.colorTheme": "Palenight Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.associations": {
+        "*.sass": "scss"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontFamily": "Fira Code,Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+}
